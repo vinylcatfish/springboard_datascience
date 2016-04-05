@@ -37,7 +37,7 @@ I realized that exploring a well-known dataset and/or problem will likely offer 
     * Build and apply collaborative filtering algorithms to predict user         
     preferences,consider pros and cons of user-based vs. item-based filtering.  
     * Some possible datasets could be:
-      * Last.fm: http://www.last.fm/api, 
+      * Last.fm: http://www.last.fm/api 
       * Spotify: https://developer.spotify.com/web-api/
       * MovieLens: http://grouplens.org/datasets/movielens/
       * Yelp Dataset: https://www.yelp.com/dataset_challenge
