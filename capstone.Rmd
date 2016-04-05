@@ -2,7 +2,7 @@
 
 **Foundations of Data Science Program**
 
-*Doug Terrell - March 28th Cohort*
+**Doug Terrell** - *March 28th Cohort*
 
 I considered 4 high-level approaches in my search for a capstone project:
 
