@@ -33,11 +33,12 @@ I realized that exploring a well-known dataset and/or problem will likely offer 
     experience using hundreds of anonymized features.
     * https://www.kaggle.com/c/santander-customer-satisfaction
 
-3.	**Build Recommender System to Predict User Preferences**
+3.	**Build a Recommender System to Predict User Preferences**
     * Build and apply collaborative filtering algorithms to predict user         
     preferences,consider pros and cons of user-based vs. item-based filtering.  
     * Some possible datasets could be:
-      * LastFM, Spotify
+      * Last.fm: http://www.last.fm/api, 
+      * Spotify: https://developer.spotify.com/web-api/
       * MovieLens: http://grouplens.org/datasets/movielens/
       * Yelp Dataset: https://www.yelp.com/dataset_challenge
       * Stack Exchange: https://archive.org/details/stackexchange
