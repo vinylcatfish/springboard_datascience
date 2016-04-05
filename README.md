@@ -1,1 +1,35 @@
-# springboard_datascience
+# Springboard Capstone Project Proposals
+
+**Foundations of Data Science Program**
+
+**Doug Terrell** - March 28th Cohort
+
+I considered 4 high-level ways to approach my search for a capstone project:
+
+1.      Ask a question then find the dataset.
+2.      Find a dataset then ask a question.
+3.      Find a competition, use the same or similar dataset, and ask the same or different question.
+4.      Find research, use the same or similar dataset, and ask the same or different question.
+
+I realized that exploring a well-known dataset and/or problem will likely offer the best opportunity to learn by example and gain knowledge quickly by studying the work of others.  The following are my initial proposals for the capstone project:
+
+1.      **Yelp Dataset** - Predict Numerical Ratings
+    * Apply supervised learning algorithms to predict a numerical rating using review text.  Experiment with machine learning algorithms and explore feature
+    selection.
+    * https://www.yelp.com/dataset_challenge
+
+2.      **Kaggle Santander Customer Satisfaction** – Which Customers are Happy Customers?
+    * Predict if a customer is satisfied or dissatisfied with their banking
+    experience using hundreds of anonymized features.
+    * https://www.kaggle.com/c/santander-customer-satisfaction
+
+3.      **Build a Recommender System to Predict User Preferences**
+    * Build and apply collaborative filtering algorithms to predict user
+    preferences,consider pros and cons of user-based vs. item-based filtering.
+    * Some possible datasets could be:
+      * Last.fm: http://www.last.fm/api
+      * Spotify: https://developer.spotify.com/web-api/
+      * MovieLens: http://grouplens.org/datasets/movielens/
+      * Yelp Dataset: https://www.yelp.com/dataset_challenge
+      * Stack Exchange: https://archive.org/details/stackexchange
+
