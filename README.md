@@ -1,8 +1,10 @@
 # Springboard Capstone Project Proposals
 
-**Foundations of Data Science Program**
+##Foundations of Data Science Program
 
-**Doug Terrell** - March 28th Cohort
+###Doug Terrell 
+
+March 28th Cohort
 
 I considered 4 high-level ways to approach my search for a capstone project:
 
