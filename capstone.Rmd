@@ -1,11 +1,3 @@
----
-title: "Springboard Capstone Project Proposals"
-author: "Doug Terrell"
-date: "April 4, 2016"
-output: html_document
----
-
-
 # Springboard Capstone Project Proposals
 
 
