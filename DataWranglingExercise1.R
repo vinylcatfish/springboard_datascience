@@ -1,9 +1,13 @@
 library(dplyr)
 library(tidyr)
+
 setwd("~/projects/github/springboard_datascience/")
 
+# Clear the buffer
+rm(list=ls())
+
 # 0 - load data into R
-refineData <- read.csv("refine.csv")
+refineData <- read.csv("refine_original.csv")
 
 # 1 - clean up the brand names
 # convert first column to lowercase
