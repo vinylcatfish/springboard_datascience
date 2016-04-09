@@ -167,7 +167,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 1,1,Hoyt, Mr. Frederick Maxfield,male,38,1,0,19943,90,C93,S,D,NA,New York, NY /  Stamford CT,1
 1,0,Hoyt, Mr. William Fisher,male,29.8811345124283,0,0,PC 17600,30.6958,,C,14,NA,New York, NY,0
 1,1,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby),female,35,1,0,19943,90,C93,S,D,NA,New York, NY /  Stamford CT,1
-1,1,Icard, Miss. Amelie,female,38,0,0,113572,80,B28,,6,NA,,1
+1,1,Icard, Miss. Amelie,female,38,0,0,113572,80,B28,S,6,NA,,1
 1,0,Isham, Miss. Ann Elizabeth,female,50,0,0,PC 17595,28.7125,C49,C,NA,NA,Paris, France New York, NY,1
 1,1,Ismay, Mr. Joseph Bruce,male,49,0,0,112058,0,B52 B54 B56,S,C,NA,Liverpool,1
 1,0,Jones, Mr. Charles Cresson,male,46,0,0,694,26,,S,NA,80,Bennington, VT,0
@@ -283,7 +283,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 1,1,Stengel, Mrs. Charles Emil Henry (Annie May Morris),female,43,1,0,11778,55.4417,C116,C,5,NA,Newark, NJ,1
 1,1,Stephenson, Mrs. Walter Bertram (Martha Eustis),female,52,1,0,36947,78.2667,D20,C,4,NA,Haverford, PA,1
 1,0,Stewart, Mr. Albert A,male,29.8811345124283,0,0,PC 17605,27.7208,,C,NA,NA,Gallipolis, Ohio / ? Paris / New York,0
-1,1,Stone, Mrs. George Nelson (Martha Evelyn),female,62,0,0,113572,80,B28,,6,NA,Cincinatti, OH,1
+1,1,Stone, Mrs. George Nelson (Martha Evelyn),female,62,0,0,113572,80,B28,S,6,NA,Cincinatti, OH,1
 1,0,Straus, Mr. Isidor,male,67,1,0,PC 17483,221.7792,C55 C57,S,NA,96,New York, NY,1
 1,0,Straus, Mrs. Isidor (Rosalie Ida Blun),female,63,1,0,PC 17483,221.7792,C55 C57,S,NA,NA,New York, NY,1
 1,0,Sutton, Mr. Frederick,male,61,0,0,36963,32.3208,D50,S,NA,46,Haddenfield, NJ,1
@@ -1308,4 +1308,4 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 3,0,Zakarian, Mr. Mapriededer,male,26.5,0,0,2656,7.225,,C,NA,304,,0
 3,0,Zakarian, Mr. Ortin,male,27,0,0,2670,7.225,,C,NA,NA,,0
 3,0,Zimmerman, Mr. Leo,male,29,0,0,315082,7.875,,S,NA,NA,,0
-NA,NA,,,29.8811345124283,NA,NA,,NA,,,NA,NA,,0
+NA,NA,,,29.8811345124283,NA,NA,,NA,,S,NA,NA,,0
