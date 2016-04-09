@@ -8,7 +8,7 @@ df <- read.csv("titanic_original.csv")
 
 # 1 - Replace missing value with S
 df$embarked <- as.character(df$embarked)
-df$embarked[df$embarked == "NA"] <- "S"
+df$embarked[df$embarked == ""] <- "S"
 
 # 2 - Calculate the mean of the Age column and use that value to populate the missing values
 df$age[is.na(df$age) == TRUE] <- mean(df$age[is.na(df$age) == FALSE]) 
